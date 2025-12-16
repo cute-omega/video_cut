@@ -1,0 +1,9 @@
+[project]
+dependencies = [
+  "pywin32>=311",
+]
+description = "Add your description here"
+name = "video-cut"
+readme = "README.md"
+requires-python = ">=3.14"
+version = "0.1.0"
