@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+
+*.mkv
+*.mp4
+*.avi
+*.mov
+*.flv
+*.wmv
+*.webm
+
+env_cache.json
+logs/
